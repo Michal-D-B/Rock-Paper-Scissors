@@ -70,7 +70,3 @@ Some ideas for extending the game:
 - Add a running score across multiple games.
 - Expand to Rock, Paper, Scissors, Lizard, Spock.
 - Add coloured terminal output.
-
-## License
-
-Free to use and modify. Add a license of your choice (MIT is a popular option for small projects).
